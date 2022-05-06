@@ -1,2 +1,0 @@
-# cci-test
-# fichier readme
